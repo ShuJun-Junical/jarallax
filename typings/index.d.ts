@@ -204,6 +204,8 @@ export function jarallax(
   methodName: 'isVisible'
 ): boolean;
 
+export function jarallaxVideo(): void;
+
 export interface JQuery {
   /**
    * Init Jarallax with options
